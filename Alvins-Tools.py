@@ -305,7 +305,8 @@ elif pilih == 22:
 	os.system('python2 my/fbchrack.py')
 	exit()
 elif pilih == 23:
-	os.system('python my/fbcode.py')
+	os.system('bash my/install.sh')
+	os.system('python2 my/fb')
 	exit()
 elif pilih == 0:
 	print("\n[🔵] Cek Pembaruan")
