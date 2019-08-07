@@ -14,4 +14,5 @@ pkg install python3
 pkg install git
 git clone https://github.com/PangeranAlvins/Alvins-Tools
 cd Alvins-Tools
-python3 Alvins-Tools.py
+bash install.sh
+python3 Alvins-Tools.
