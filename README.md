@@ -12,6 +12,7 @@
 pkg install upgrade && update
 pkg install python3
 pkg install git
+pip install requests
 git clone https://github.com/PangeranAlvins/Alvins-Tools
 cd Alvins-Tools
 bash install.sh
